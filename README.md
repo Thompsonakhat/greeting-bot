@@ -19,3 +19,6 @@
 
 ## About This Bot
 This Telegram bot is designed to assist users with various tasks, providing information and automating processes to enhance user experience.
+
+## About This Bot
+This Telegram bot is designed to assist users with various tasks, providing information and automating processes to enhance user experience.
