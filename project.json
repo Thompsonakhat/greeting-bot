@@ -28,6 +28,14 @@
     {
       "role": "assistant",
       "content": "Added a section to the README file explaining what the bot is about."
+    },
+    {
+      "role": "user",
+      "content": "This is a nodejs project and not a ts project, you can tell by the type of files created (js files). The package.json file commands  seem to be for a ts project, please make the changes for a nodejs"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated package.json to reflect Node.js project structure and scripts."
     }
   ],
   "description": "",
