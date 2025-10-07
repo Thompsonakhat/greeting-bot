@@ -1,18 +1,19 @@
 {
-  "name": "your-project-name",
+  "name": "telegram-bot",
   "version": "1.0.0",
-  "description": "Your project description",
+  "description": "A Telegram bot",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "test": "jest"
+    "start": "node src/index.js"
   },
   "dependencies": {
-    "some-dependency": "^1.0.0"
+    "node-telegram-bot-api": "^0.50.0",
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.0",
-    "jest": "^26.0.0"
-  }
+    "jest": "^27.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
