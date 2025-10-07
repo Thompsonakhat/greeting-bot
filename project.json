@@ -36,6 +36,14 @@
     {
       "role": "assistant",
       "content": "Updated package.json to reflect Node.js project structure and scripts."
+    },
+    {
+      "role": "user",
+      "content": "make sure that you have all the needed dependencies lneeded by the project in the package.json so there is no error later while running"
+    },
+    {
+      "role": "assistant",
+      "content": "Updated package.json to ensure all necessary dependencies are included."
     }
   ],
   "description": "",
